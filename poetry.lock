@@ -5336,4 +5336,4 @@ text-generation = ["text-generation"]
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9,<3.9.7 || >3.9.7,<4.0"
-content-hash = "cdfb325a748ce9e4a52045a2ee6bfb9ebb29ae52bae5e7d2bc235f68cf996c31"
+content-hash = "62a690d76dcb70532a2635b5ccdf569bee3079bb87467968aca6c5bed2db23db"
