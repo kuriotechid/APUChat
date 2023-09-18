@@ -1,6 +1,6 @@
 {
   "save_logs": true,
-  "verbose": false,
+  "verbose": true,
   "enforce_privacy": false,
   "enable_cache": true,
   "use_error_correction_framework": true,
@@ -13,5 +13,5 @@
   "callback": null,
   "llm": "OpenAI",
   "llm_options": null,
-  "saved_dfs": []
+  "saved_dfs": "~/project/APUChat/workspace/data/"
 }
