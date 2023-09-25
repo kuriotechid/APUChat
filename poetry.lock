@@ -889,6 +889,31 @@ files = [
 toml = ["tomli"]
 
 [[package]]
+name = "cx-oracle"
+version = "8.3.0"
+description = "Python interface to Oracle"
+optional = false
+python-versions = "*"
+files = [
+    {file = "cx_Oracle-8.3.0-cp310-cp310-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl", hash = "sha256:b6a23da225f03f50a81980c61dbd6a358c3575f212ca7f4c22bb65a9faf94f7f"},
+    {file = "cx_Oracle-8.3.0-cp310-cp310-win32.whl", hash = "sha256:715a8bbda5982af484ded14d184304cc552c1096c82471dd2948298470e88a04"},
+    {file = "cx_Oracle-8.3.0-cp310-cp310-win_amd64.whl", hash = "sha256:07f01608dfb6603a8f2a868fc7c7bdc951480f187df8dbc50f4d48c884874e6a"},
+    {file = "cx_Oracle-8.3.0-cp36-cp36m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl", hash = "sha256:4b3afe7a911cebaceda908228d36839f6441cbd38e5df491ec25960562bb01a0"},
+    {file = "cx_Oracle-8.3.0-cp36-cp36m-win32.whl", hash = "sha256:076ffb71279d6b2dcbf7df028f62a01e18ce5bb73d8b01eab582bf14a62f4a61"},
+    {file = "cx_Oracle-8.3.0-cp36-cp36m-win_amd64.whl", hash = "sha256:b82e4b165ffd807a2bd256259a6b81b0a2452883d39f987509e2292d494ea163"},
+    {file = "cx_Oracle-8.3.0-cp37-cp37m-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl", hash = "sha256:b902db61dcdcbbf8dd981f5a46d72fef40c5150c7fc0eb0f0698b462d6eb834e"},
+    {file = "cx_Oracle-8.3.0-cp37-cp37m-win32.whl", hash = "sha256:4c82ca74442c298ceec56d207450c192e06ecf8ad52eb4aaad0812e147ceabf7"},
+    {file = "cx_Oracle-8.3.0-cp37-cp37m-win_amd64.whl", hash = "sha256:54164974d526b76fdefb0b66a42b68e1fca5df78713d0eeb8c1d0047b83f6bcf"},
+    {file = "cx_Oracle-8.3.0-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl", hash = "sha256:410747d542e5f94727f5f0e42e9706c772cf9094fb348ce965ab88b3a9e4d2d8"},
+    {file = "cx_Oracle-8.3.0-cp38-cp38-win32.whl", hash = "sha256:3baa878597c5fadb2c72f359f548431c7be001e722ce4a4ebdf3d2293a1bb70b"},
+    {file = "cx_Oracle-8.3.0-cp38-cp38-win_amd64.whl", hash = "sha256:de42bdc882abdc5cea54597da27a05593b44143728e5b629ad5d35decb1a2036"},
+    {file = "cx_Oracle-8.3.0-cp39-cp39-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_12_x86_64.manylinux2010_x86_64.whl", hash = "sha256:df412238a9948340591beee9ec64fa62a2efacc0d91107034a7023e2991fba97"},
+    {file = "cx_Oracle-8.3.0-cp39-cp39-win32.whl", hash = "sha256:70d3cf030aefd71f99b45beba77237b2af448adf5e26be0db3d0d3dee6ea4230"},
+    {file = "cx_Oracle-8.3.0-cp39-cp39-win_amd64.whl", hash = "sha256:bf01ce87edb4ef663b2e5bd604e1e0154d2cc2f12b60301f788b569d9db8a900"},
+    {file = "cx_Oracle-8.3.0.tar.gz", hash = "sha256:3b2d215af4441463c97ea469b9cc307460739f89fdfa8ea222ea3518f1a424d9"},
+]
+
+[[package]]
 name = "cycler"
 version = "0.11.0"
 description = "Composable style cycles"
@@ -3596,6 +3621,47 @@ pytz = ">=2020.1"
 test = ["hypothesis (>=5.5.3)", "pytest (>=6.0)", "pytest-xdist (>=1.31)"]
 
 [[package]]
+name = "pandasai"
+version = "1.2.6"
+description = "PandasAI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational."
+optional = false
+python-versions = ">=3.9, !=2.7.*, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, !=3.5.*, !=3.6.*, !=3.7.*, !=3.8.*"
+files = [
+    {file = "pandasai-1.2.6-py3-none-any.whl", hash = "sha256:c93585690309f630afea35cd09e5a286f3f57a5468e285cf48aca48fa609d8db"},
+    {file = "pandasai-1.2.6.tar.gz", hash = "sha256:2faa284de7fe343479d3dcbd05e78f68f1072b7a0c7679c06df97e5f2c2ea349"},
+]
+
+[package.dependencies]
+astor = ">=0.8.1,<0.9.0"
+duckdb = ">=0.8.1,<0.9.0"
+ipython = ">=8.13.1,<9.0.0"
+matplotlib = ">=3.7.1,<4.0.0"
+openai = ">=0.27.5,<0.28.0"
+pandas = "1.5.3"
+polars = {version = ">=0.18.15,<0.19.0", optional = true, markers = "extra == \"polars\""}
+pydantic = ">=1,<2"
+python-dotenv = ">=1.0.0,<2.0.0"
+scipy = ">=1.9.0,<2.0.0"
+sqlalchemy = ">=2.0.19,<3.0.0"
+
+[package.extras]
+connectors = ["psycopg2 (>=2.9.7,<3.0.0)", "pymysql (>=1.1.0,<2.0.0)"]
+excel = ["openpyxl (>=3.0.7,<4.0.0)"]
+ggplot = ["ggplot (>=0.11.5,<0.12.0)"]
+google-ai = ["google-cloud-aiplatform (>=1.26.1,<2.0.0)", "google-generativeai (>=0.1.0rc2,<0.2.0)"]
+google-sheets = ["beautifulsoup4 (>=4.12.2,<5.0.0)"]
+langchain = ["langchain (>=0.0.199,<0.0.200)"]
+numpy = ["numpy (>=1.17,<2.0)"]
+plotly = ["kaleido (==0.2.0)", "plotly (>=5.15.0,<6.0.0)"]
+polars = ["polars (>=0.18.15,<0.19.0)"]
+scikit-learn = ["scikit-learn (>=1.2.2,<2.0.0)"]
+seaborn = ["seaborn (>=0.12.2,<0.13.0)"]
+statsmodels = ["statsmodels (>=0.14.0,<0.15.0)"]
+streamlit = ["streamlit (>=1.23.1,<2.0.0)"]
+text-generation = ["text-generation (>=0.6.0)"]
+yfinance = ["yfinance (>=0.2.28,<0.3.0)"]
+
+[[package]]
 name = "pandocfilters"
 version = "1.5.0"
 description = "Utilities for writing pandoc filters in python"
@@ -3803,7 +3869,7 @@ testing = ["pytest", "pytest-benchmark"]
 name = "polars"
 version = "0.18.15"
 description = "Blazingly fast DataFrame library"
-optional = true
+optional = false
 python-versions = ">=3.8"
 files = [
     {file = "polars-0.18.15-cp38-abi3-macosx_10_7_x86_64.whl", hash = "sha256:f7a4e4108efd2ab728249f792c89d2e7baffd65e0d6cd9f09b6c395363e3fbea"},
@@ -3991,7 +4057,7 @@ tests = ["pytest"]
 name = "pyarrow"
 version = "13.0.0"
 description = "Python library for Apache Arrow"
-optional = true
+optional = false
 python-versions = ">=3.8"
 files = [
     {file = "pyarrow-13.0.0-cp310-cp310-macosx_10_14_x86_64.whl", hash = "sha256:1afcc2c33f31f6fb25c92d50a86b7a9f076d38acbcb6f9e74349636109550148"},
@@ -4820,7 +4886,7 @@ tests = ["black (>=23.3.0)", "matplotlib (>=3.1.3)", "mypy (>=1.3)", "numpydoc (
 name = "scipy"
 version = "1.9.3"
 description = "Fundamental algorithms for scientific computing in Python"
-optional = true
+optional = false
 python-versions = ">=3.8"
 files = [
     {file = "scipy-1.9.3-cp310-cp310-macosx_10_9_x86_64.whl", hash = "sha256:1884b66a54887e21addf9c16fb588720a8309a57b2e258ae1c7986d4444d3bc0"},
@@ -5753,4 +5819,4 @@ yfinance = ["yfinance"]
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9,<3.9.7 || >3.9.7,<4.0"
-content-hash = "35c97b9b712daaedbc5c656080b8cecf30ddb81a43dbea154c71bc2142076ec8"
+content-hash = "e4da091fede0b6eefb705acb2e4dac3e58766defeeafe0629ccaacc1909ef142"
