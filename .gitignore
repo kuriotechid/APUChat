@@ -46,3 +46,9 @@ pyproject.toml
 
 
 .ipynb_checkpoints
+
+
+# File konfigurasi IPython
+.ipynb_checkpoints/
+.profile_default/
+.ipython/
