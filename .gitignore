@@ -43,3 +43,6 @@ poetry.lock
 
 # sementara
 pyproject.toml
+
+
+.ipynb_checkpoints
