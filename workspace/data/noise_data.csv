@@ -1,0 +1,1001 @@
+Nama,Jenis Transaksi,Jumlah (Rp),Tanggal Transaksi,Lokasi
+Pelanggan2,Tarik Tunai,12917562,2021-08-12,Bandung
+Pelanggan9,Transfer,13544831,2020-12-22,Yogyakarta
+Pelanggan2,Deposit,8145250,2021-06-28,Jakarta
+Pelanggan10,Tarik Tunai,32037592,2022-08-05,Yogyakarta
+Pelanggan2,Tarik Tunai,36455086,2020-12-09,Medan
+Pelanggan9,Deposit,36656219,2022-01-31,Surabaya
+Pelanggan7,Tarik Tunai,17636088,2021-07-23,Medan
+Pelanggan7,Deposit,23642845,2020-11-08,Jakarta
+Pelanggan5,Tarik Tunai,40031377,2020-05-04,Bandung
+Pelanggan8,Transfer,38786161,2020-09-29,Bandung
+Pelanggan5,Transfer,35903573,2021-06-29,Jakarta
+Pelanggan8,Tarik Tunai,5637825,2021-09-03,Bandung
+Pelanggan8,Tarik Tunai,33486527,2022-04-23,Yogyakarta
+Pelanggan7,Tarik Tunai,17731400,2022-03-29,Bandung
+Pelanggan5,Tarik Tunai,32131252,2020-10-16,Bandung
+Pelanggan5,Deposit,45980350,2022-10-22,Bandung
+Pelanggan8,Transfer,15560673,2020-11-08,Medan
+Pelanggan5,Tarik Tunai,49648140,2020-03-23,Bandung
+Pelanggan10,Deposit,28489320,2020-03-07,Medan
+Pelanggan3,Deposit,24464392,2022-10-03,Jakarta
+Pelanggan8,Tarik Tunai,21237679,2020-05-27,Jakarta
+Pelanggan1,Tarik Tunai,29052040,2022-03-27,Yogyakarta
+Pelanggan4,Tarik Tunai,12701466,2021-07-23,Medan
+Pelanggan1,Transfer,45477026,2021-02-01,Yogyakarta
+Pelanggan2,Deposit,22706728,2022-11-03,Medan
+Pelanggan8,Transfer,39955213,2020-07-25,Jakarta
+Pelanggan6,Transfer,7651603,2020-05-16,Surabaya
+Pelanggan7,Deposit,43354847,2022-03-28,Surabaya
+Pelanggan9,Deposit,944882,2021-12-29,Surabaya
+Pelanggan2,Transfer,18016056,2022-11-02,Yogyakarta
+Pelanggan9,Deposit,46798758,2022-12-04,Surabaya
+Pelanggan10,Deposit,49595007,2022-07-21,Surabaya
+Pelanggan9,Deposit,38137055,2020-07-13,Jakarta
+Pelanggan3,Deposit,44910894,2020-09-10,Bandung
+Pelanggan7,Transfer,43198200,2020-11-23,Bandung
+Pelanggan5,Deposit,45960379,2021-09-28,Yogyakarta
+Pelanggan8,Transfer,36772318,2022-09-26,Bandung
+Pelanggan1,Deposit,40676016,2022-03-23,Yogyakarta
+Pelanggan3,Transfer,9901496,2020-02-01,Jakarta
+Pelanggan6,Transfer,36599642,2020-07-08,Medan
+Pelanggan7,Deposit,20771431,2020-09-11,Medan
+Pelanggan6,Tarik Tunai,35976673,2020-12-02,Yogyakarta
+Pelanggan5,Transfer,34156403,2020-03-17,Yogyakarta
+Pelanggan6,Deposit,38211020,2021-02-24,Surabaya
+Pelanggan1,Deposit,41242502,2020-01-04,Jakarta
+Pelanggan9,Tarik Tunai,26808426,2021-10-27,Yogyakarta
+Pelanggan2,Transfer,41502417,2022-05-30,Surabaya
+Pelanggan4,Deposit,39688621,2020-01-26,Jakarta
+Pelanggan5,Transfer,20623533,2020-07-16,Surabaya
+Pelanggan2,Transfer,8931437,2021-10-11,Yogyakarta
+Pelanggan9,Deposit,25346218,2020-01-23,Bandung
+Pelanggan8,Deposit,35656881,2021-10-31,Bandung
+Pelanggan6,Transfer,22881587,2020-12-22,Jakarta
+Pelanggan5,Tarik Tunai,4110330,2021-07-18,Bandung
+Pelanggan4,Tarik Tunai,42465558,2020-03-30,Bandung
+Pelanggan5,Tarik Tunai,18139815,2020-02-08,Surabaya
+Pelanggan7,Transfer,1766312,2021-05-22,Surabaya
+Pelanggan4,Deposit,19651383,2022-07-31,Medan
+Pelanggan10,Tarik Tunai,9561202,2020-11-08,Jakarta
+Pelanggan7,Transfer,49654490,2022-01-20,Jakarta
+Pelanggan5,Deposit,46951837,2021-12-30,Yogyakarta
+Pelanggan7,Tarik Tunai,31299835,2020-11-13,Surabaya
+Pelanggan3,Transfer,28095592,2021-02-25,Medan
+Pelanggan9,Transfer,7811115,2020-11-24,Yogyakarta
+Pelanggan7,Transfer,47137799,2021-04-14,Surabaya
+Pelanggan4,Tarik Tunai,8179020,2022-03-12,Yogyakarta
+Pelanggan5,Transfer,858828,2022-01-03,Surabaya
+Pelanggan10,Tarik Tunai,3314052,2022-10-01,Yogyakarta
+Pelanggan1,Transfer,10593992,2021-02-24,Yogyakarta
+Pelanggan9,Transfer,19671893,2021-09-11,Yogyakarta
+Pelanggan8,Deposit,34123135,2022-02-22,Medan
+Pelanggan8,Transfer,10773844,2021-06-14,Yogyakarta
+Pelanggan1,Tarik Tunai,12300695,2020-07-25,Bandung
+Pelanggan9,Tarik Tunai,11467295,2021-07-13,Bandung
+Pelanggan4,Tarik Tunai,48979340,2022-08-29,Bandung
+Pelanggan5,Deposit,4431179,2020-06-06,Yogyakarta
+Pelanggan10,Tarik Tunai,12904987,2020-12-14,Yogyakarta
+Pelanggan7,Transfer,49328468,2022-04-05,Bandung
+Pelanggan5,Transfer,32006245,2021-11-30,Surabaya
+Pelanggan2,Tarik Tunai,20321541,2022-01-18,Yogyakarta
+Pelanggan1,Tarik Tunai,14075878,2022-08-16,Jakarta
+Pelanggan5,Transfer,894448,2021-05-04,Jakarta
+Pelanggan1,Deposit,725482,2022-04-17,Bandung
+Pelanggan8,Tarik Tunai,34763101,2020-09-26,Yogyakarta
+Pelanggan6,Transfer,31560022,2022-08-14,Bandung
+Pelanggan5,Tarik Tunai,40118079,2020-12-17,Yogyakarta
+Pelanggan7,Deposit,3087525,2022-09-06,Medan
+Pelanggan9,Tarik Tunai,16578019,2020-06-30,Yogyakarta
+Pelanggan4,Transfer,42829635,2021-01-26,Yogyakarta
+Pelanggan7,Deposit,34029854,2020-02-02,Medan
+Pelanggan3,Tarik Tunai,38307044,2021-12-08,Yogyakarta
+Pelanggan2,Deposit,25148645,2022-05-26,Bandung
+Pelanggan2,Deposit,21504667,2021-03-10,Surabaya
+Pelanggan2,Tarik Tunai,27102844,2022-10-14,Surabaya
+Pelanggan8,Transfer,42740550,2020-08-05,Medan
+Pelanggan10,Deposit,14662752,2022-12-15,Jakarta
+Pelanggan10,Transfer,32531512,2022-07-24,Bandung
+Pelanggan9,Tarik Tunai,34420398,2022-10-08,Jakarta
+Pelanggan9,Transfer,12084181,2020-04-17,Surabaya
+Pelanggan8,Transfer,18271342,2020-06-22,Surabaya
+Pelanggan1,Deposit,43509309,2022-09-06,Surabaya
+Pelanggan4,Deposit,34726077,2022-07-15,Bandung
+Pelanggan6,Transfer,9299312,2022-02-22,Surabaya
+Pelanggan8,Deposit,8112532,2022-11-18,Bandung
+Pelanggan7,Deposit,2527981,2020-02-15,Surabaya
+Pelanggan4,Deposit,48890039,2020-09-01,Surabaya
+Pelanggan1,Transfer,28161616,2021-09-18,Surabaya
+Pelanggan9,Deposit,42077471,2020-02-14,Yogyakarta
+Pelanggan6,Transfer,5710255,2021-12-13,Jakarta
+Pelanggan1,Tarik Tunai,28116201,2022-08-20,Surabaya
+Pelanggan6,Tarik Tunai,30839111,2022-09-25,Medan
+Pelanggan9,Deposit,27552242,2022-04-18,Surabaya
+Pelanggan3,Transfer,14822712,2020-01-31,Medan
+Pelanggan7,Deposit,21249496,2020-03-28,Surabaya
+Pelanggan8,Transfer,33064338,2020-04-11,Surabaya
+Pelanggan1,Deposit,30340904,2021-08-07,Bandung
+Pelanggan1,Tarik Tunai,5390754,2022-03-19,Jakarta
+Pelanggan2,Deposit,16968631,2020-10-10,Bandung
+Pelanggan5,Deposit,6152949,2020-06-25,Yogyakarta
+Pelanggan5,Deposit,46305072,2020-06-23,Bandung
+Pelanggan6,Deposit,49044547,2020-05-30,Bandung
+Pelanggan8,Deposit,41930655,2022-07-20,Jakarta
+Pelanggan9,Transfer,8964072,2022-01-30,Bandung
+Pelanggan2,Transfer,41367234,2022-01-30,Yogyakarta
+Pelanggan6,Tarik Tunai,31206973,2021-02-10,Jakarta
+Pelanggan5,Tarik Tunai,4052398,2020-01-18,Bandung
+Pelanggan10,Tarik Tunai,25948070,2020-12-21,Bandung
+Pelanggan6,Deposit,4764342,2021-01-08,Surabaya
+Pelanggan4,Deposit,3477083,2020-07-03,Bandung
+Pelanggan5,Tarik Tunai,15319031,2022-02-01,Surabaya
+Pelanggan7,Tarik Tunai,31152182,2021-12-30,Jakarta
+Pelanggan3,Deposit,23980398,2020-05-07,Surabaya
+Pelanggan7,Transfer,10300170,2021-03-25,Surabaya
+Pelanggan10,Transfer,37854246,2021-08-22,Yogyakarta
+Pelanggan7,Transfer,40035199,2022-11-19,Surabaya
+Pelanggan9,Deposit,28841699,2020-08-22,Medan
+Pelanggan1,Transfer,6333094,2021-10-14,Surabaya
+Pelanggan2,Tarik Tunai,2000678,2020-11-12,Jakarta
+Pelanggan8,Transfer,33390018,2022-05-03,Jakarta
+Pelanggan4,Tarik Tunai,37612808,2020-12-28,Medan
+Pelanggan7,Transfer,6358347,2022-08-29,Yogyakarta
+Pelanggan5,Transfer,27493238,2021-04-23,Medan
+Pelanggan10,Tarik Tunai,27271431,2020-01-25,Jakarta
+Pelanggan7,Tarik Tunai,49902788,2020-09-26,Yogyakarta
+Pelanggan10,Transfer,38566558,2020-09-24,Bandung
+Pelanggan6,Transfer,32205870,2022-09-09,Bandung
+Pelanggan10,Deposit,15476828,2022-08-22,Jakarta
+Pelanggan10,Tarik Tunai,30683159,2020-04-26,Jakarta
+Pelanggan1,Transfer,9783924,2021-11-18,Surabaya
+Pelanggan3,Tarik Tunai,35102044,2021-06-27,Surabaya
+Pelanggan10,Transfer,43303003,2022-06-25,Jakarta
+Pelanggan4,Tarik Tunai,28096879,2021-03-12,Medan
+Pelanggan5,Transfer,5199203,2022-08-23,Surabaya
+Pelanggan2,Tarik Tunai,16463862,2020-07-11,Yogyakarta
+Pelanggan3,Transfer,33358993,2022-03-01,Surabaya
+Pelanggan5,Transfer,22243687,2021-05-11,Yogyakarta
+Pelanggan7,Deposit,40938124,2021-02-10,Yogyakarta
+Pelanggan3,Transfer,2970999,2021-03-24,Bandung
+Pelanggan10,Deposit,5527715,2020-01-08,Yogyakarta
+Pelanggan10,Deposit,24810915,2020-12-15,Bandung
+Pelanggan10,Tarik Tunai,8284514,2022-12-31,Jakarta
+Pelanggan1,Transfer,28594676,2022-05-15,Yogyakarta
+Pelanggan7,Transfer,6740302,2020-10-19,Medan
+Pelanggan6,Deposit,23819492,2022-04-17,Yogyakarta
+Pelanggan3,Transfer,4008586,2021-09-22,Bandung
+Pelanggan2,Deposit,14511242,2021-09-13,Surabaya
+Pelanggan3,Transfer,31744072,2021-10-02,Yogyakarta
+Pelanggan6,Deposit,21445218,2021-07-29,Medan
+Pelanggan9,Deposit,27216670,2021-03-17,Jakarta
+Pelanggan4,Tarik Tunai,38912715,2020-04-12,Bandung
+Pelanggan3,Deposit,20924656,2022-10-31,Jakarta
+Pelanggan2,Tarik Tunai,27470148,2020-07-08,Yogyakarta
+Pelanggan6,Deposit,31195248,2022-01-13,Bandung
+Pelanggan4,Tarik Tunai,18001349,2021-08-12,Surabaya
+Pelanggan2,Deposit,17344057,2021-10-13,Yogyakarta
+Pelanggan1,Deposit,21209735,2022-08-12,Jakarta
+Pelanggan1,Tarik Tunai,44228658,2021-03-10,Medan
+Pelanggan8,Tarik Tunai,1302981,2022-12-26,Yogyakarta
+Pelanggan6,Tarik Tunai,49326008,2021-02-06,Medan
+Pelanggan7,Tarik Tunai,5845406,2021-01-09,Bandung
+Pelanggan6,Transfer,46807756,2020-02-08,Medan
+Pelanggan3,Transfer,31323492,2020-08-22,Yogyakarta
+Pelanggan10,Deposit,20383094,2021-05-06,Medan
+Pelanggan3,Transfer,42001583,2020-11-20,Bandung
+Pelanggan1,Tarik Tunai,36948115,2020-12-30,Bandung
+Pelanggan7,Transfer,29621037,2022-06-10,Bandung
+Pelanggan1,Tarik Tunai,48171366,2020-05-06,Surabaya
+Pelanggan9,Transfer,46045725,2021-12-15,Surabaya
+Pelanggan5,Tarik Tunai,19266101,2020-06-07,Medan
+Pelanggan7,Tarik Tunai,43394068,2020-04-19,Medan
+Pelanggan5,Tarik Tunai,42407830,2020-05-20,Surabaya
+Pelanggan5,Deposit,862205,2021-04-13,Jakarta
+Pelanggan5,Tarik Tunai,25469563,2021-03-01,Yogyakarta
+Pelanggan4,Transfer,41370995,2020-12-17,Bandung
+Pelanggan1,Tarik Tunai,36991671,2021-04-03,Surabaya
+Pelanggan3,Deposit,46757456,2020-05-15,Medan
+Pelanggan9,Tarik Tunai,29236409,2021-06-27,Bandung
+Pelanggan7,Transfer,34854654,2021-05-07,Yogyakarta
+Pelanggan8,Transfer,28078369,2020-04-25,Jakarta
+Pelanggan6,Tarik Tunai,21841826,2021-07-21,Jakarta
+Pelanggan3,Deposit,23052829,2020-03-08,Jakarta
+Pelanggan9,Tarik Tunai,26419515,2021-03-16,Medan
+Pelanggan4,Transfer,5276035,2022-02-28,Yogyakarta
+Pelanggan3,Tarik Tunai,20717873,2020-08-01,Bandung
+Pelanggan1,Tarik Tunai,29945880,2021-06-05,Bandung
+Pelanggan9,Transfer,28346259,2020-05-16,Bandung
+Pelanggan1,Deposit,12174145,2021-05-14,Jakarta
+Pelanggan4,Transfer,11248016,2021-12-17,Jakarta
+Pelanggan7,Transfer,5168399,2020-05-19,Yogyakarta
+Pelanggan2,Transfer,8170848,2020-07-08,Jakarta
+Pelanggan4,Deposit,35273797,2020-12-11,Medan
+Pelanggan8,Transfer,48666116,2021-06-11,Surabaya
+Pelanggan1,Deposit,40305187,2020-09-29,Jakarta
+Pelanggan9,Transfer,16288421,2021-11-13,Surabaya
+Pelanggan8,Deposit,22516233,2022-04-12,Surabaya
+Pelanggan8,Transfer,30790721,2022-06-20,Yogyakarta
+Pelanggan8,Tarik Tunai,45980010,2021-07-04,Yogyakarta
+Pelanggan8,Deposit,9792308,2020-03-21,Bandung
+Pelanggan1,Transfer,23250863,2022-10-14,Yogyakarta
+Pelanggan2,Transfer,29857110,2021-01-26,Jakarta
+Pelanggan4,Transfer,37273067,2021-07-06,Surabaya
+Pelanggan5,Transfer,36210624,2021-04-29,Yogyakarta
+Pelanggan9,Tarik Tunai,36526130,2022-09-25,Yogyakarta
+Pelanggan9,Deposit,22217022,2022-11-25,Surabaya
+Pelanggan9,Tarik Tunai,19602730,2020-06-30,Yogyakarta
+Pelanggan8,Transfer,44132676,2021-10-28,Surabaya
+Pelanggan6,Transfer,10037523,2022-07-26,Surabaya
+Pelanggan4,Deposit,36363428,2020-05-24,Bandung
+Pelanggan7,Deposit,7256708,2022-07-17,Surabaya
+Pelanggan1,Tarik Tunai,32714459,2022-10-11,Yogyakarta
+Pelanggan6,Deposit,8556876,2020-01-25,Bandung
+Pelanggan3,Transfer,27933272,2021-11-21,Bandung
+Pelanggan5,Transfer,28815472,2020-05-13,Yogyakarta
+Pelanggan5,Transfer,31378759,2022-09-23,Surabaya
+Pelanggan3,Deposit,13271883,2022-07-27,Surabaya
+Pelanggan5,Transfer,10934308,2020-01-11,Yogyakarta
+Pelanggan3,Deposit,46040892,2022-10-10,Jakarta
+Pelanggan7,Deposit,45715105,2020-06-05,Surabaya
+Pelanggan10,Tarik Tunai,17142064,2021-09-07,Medan
+Pelanggan1,Transfer,25422387,2021-01-15,Medan
+Pelanggan4,Transfer,29092856,2022-12-05,Surabaya
+Pelanggan9,Tarik Tunai,16457163,2022-01-15,Yogyakarta
+Pelanggan3,Tarik Tunai,2273500,2022-11-11,Jakarta
+Pelanggan2,Deposit,3886532,2020-06-06,Surabaya
+Pelanggan9,Deposit,47074687,2021-01-16,Bandung
+Pelanggan6,Deposit,1694764,2021-07-28,Jakarta
+Pelanggan7,Transfer,13883220,2022-09-19,Medan
+Pelanggan6,Tarik Tunai,6134334,2022-03-23,Yogyakarta
+Pelanggan7,Tarik Tunai,17700877,2021-07-28,Yogyakarta
+Pelanggan9,Deposit,31120888,2021-03-25,Yogyakarta
+Pelanggan5,Deposit,30741867,2020-10-31,Surabaya
+Pelanggan5,Tarik Tunai,23761426,2021-05-16,Jakarta
+Pelanggan8,Transfer,35241837,2021-05-29,Surabaya
+Pelanggan5,Transfer,38062804,2021-10-09,Yogyakarta
+Pelanggan9,Transfer,14266896,2022-12-23,Medan
+Pelanggan7,Tarik Tunai,47068150,2022-09-28,Yogyakarta
+Pelanggan7,Tarik Tunai,2402410,2020-01-17,Surabaya
+Pelanggan7,Tarik Tunai,7112069,2020-04-26,Jakarta
+Pelanggan6,Deposit,22403528,2020-04-10,Jakarta
+Pelanggan8,Tarik Tunai,21548063,2021-07-24,Surabaya
+Pelanggan7,Deposit,28755547,2021-05-16,Medan
+Pelanggan4,Tarik Tunai,49909756,2021-11-18,Medan
+Pelanggan9,Transfer,38546932,2020-02-17,Bandung
+Pelanggan10,Tarik Tunai,27299350,2020-12-09,Bandung
+Pelanggan7,Tarik Tunai,48341669,2022-09-01,Yogyakarta
+Pelanggan7,Transfer,37463722,2020-05-29,Jakarta
+Pelanggan2,Transfer,35862709,2020-05-03,Jakarta
+Pelanggan4,Transfer,49065910,2022-09-08,Jakarta
+Pelanggan6,Deposit,1580418,2021-12-30,Surabaya
+Pelanggan3,Deposit,33225417,2020-02-17,Yogyakarta
+Pelanggan9,Deposit,20906789,2022-05-03,Yogyakarta
+Pelanggan3,Deposit,39153058,2021-03-05,Medan
+Pelanggan6,Deposit,3860908,2020-06-21,Yogyakarta
+Pelanggan8,Tarik Tunai,8752145,2022-03-21,Bandung
+Pelanggan4,Transfer,3446973,2021-12-04,Yogyakarta
+Pelanggan4,Transfer,13487658,2020-07-21,Jakarta
+Pelanggan3,Transfer,10615309,2020-07-04,Surabaya
+Pelanggan10,Tarik Tunai,14760738,2020-05-20,Bandung
+Pelanggan1,Transfer,8088241,2022-07-11,Yogyakarta
+Pelanggan9,Tarik Tunai,45082105,2020-01-27,Medan
+Pelanggan3,Deposit,10480942,2020-02-04,Yogyakarta
+Pelanggan9,Transfer,23036553,2020-05-13,Jakarta
+Pelanggan7,Tarik Tunai,13505281,2020-11-03,Surabaya
+Pelanggan4,Tarik Tunai,32392428,2020-10-18,Yogyakarta
+Pelanggan5,Transfer,12932268,2020-06-18,Bandung
+Pelanggan8,Deposit,32420346,2021-03-01,Medan
+Pelanggan1,Deposit,3567434,2021-10-05,Bandung
+Pelanggan7,Transfer,31567440,2021-11-09,Yogyakarta
+Pelanggan4,Tarik Tunai,25413535,2020-11-24,Yogyakarta
+Pelanggan10,Deposit,15097744,2020-01-16,Bandung
+Pelanggan9,Deposit,2283182,2020-10-15,Yogyakarta
+Pelanggan9,Tarik Tunai,39402159,2020-07-14,Jakarta
+Pelanggan7,Transfer,5862361,2021-02-24,Jakarta
+Pelanggan5,Deposit,48493089,2022-12-15,Surabaya
+Pelanggan10,Tarik Tunai,38467749,2021-02-24,Yogyakarta
+Pelanggan5,Transfer,18062252,2022-02-15,Yogyakarta
+Pelanggan1,Transfer,17302396,2022-03-18,Yogyakarta
+Pelanggan10,Tarik Tunai,23643146,2022-12-06,Yogyakarta
+Pelanggan1,Tarik Tunai,17110467,2020-08-21,Medan
+Pelanggan2,Transfer,19566714,2020-12-22,Surabaya
+Pelanggan2,Tarik Tunai,25263015,2021-10-28,Jakarta
+Pelanggan5,Tarik Tunai,34910761,2020-04-04,Yogyakarta
+Pelanggan5,Tarik Tunai,45742159,2022-07-02,Bandung
+Pelanggan3,Tarik Tunai,26953892,2021-01-21,Jakarta
+Pelanggan7,Transfer,41736569,2022-03-08,Jakarta
+Pelanggan10,Transfer,15987135,2020-10-20,Medan
+Pelanggan10,Tarik Tunai,34564634,2021-02-08,Yogyakarta
+Pelanggan6,Deposit,34455314,2021-09-27,Jakarta
+Pelanggan7,Tarik Tunai,33137172,2021-03-08,Surabaya
+Pelanggan3,Deposit,48850827,2021-03-07,Medan
+Pelanggan3,Deposit,32770084,2022-07-19,Surabaya
+Pelanggan6,Deposit,41867887,2022-05-10,Medan
+Pelanggan3,Transfer,40227574,2021-03-16,Bandung
+Pelanggan9,Deposit,28284725,2021-07-21,Bandung
+Pelanggan7,Tarik Tunai,32974512,2021-02-02,Bandung
+Pelanggan4,Transfer,19684341,2021-09-03,Surabaya
+Pelanggan5,Transfer,15435514,2022-01-27,Bandung
+Pelanggan8,Deposit,43471367,2020-08-19,Medan
+Pelanggan3,Deposit,40720397,2020-08-29,Jakarta
+Pelanggan7,Tarik Tunai,33769836,2022-02-10,Jakarta
+Pelanggan3,Transfer,42547084,2021-05-17,Bandung
+Pelanggan10,Tarik Tunai,5788823,2020-08-31,Bandung
+Pelanggan6,Tarik Tunai,2202320,2021-04-15,Yogyakarta
+Pelanggan7,Tarik Tunai,21546315,2020-12-04,Bandung
+Pelanggan4,Tarik Tunai,16080591,2020-02-19,Yogyakarta
+Pelanggan7,Transfer,14261322,2021-11-01,Jakarta
+Pelanggan3,Deposit,42953039,2022-08-27,Jakarta
+Pelanggan9,Tarik Tunai,36343665,2021-11-24,Bandung
+Pelanggan5,Transfer,11756351,2020-11-07,Bandung
+Pelanggan6,Tarik Tunai,13759664,2022-06-08,Yogyakarta
+Pelanggan4,Deposit,46407552,2021-09-27,Surabaya
+Pelanggan1,Transfer,33431203,2020-03-22,Yogyakarta
+Pelanggan2,Tarik Tunai,43111549,2020-02-06,Bandung
+Pelanggan6,Tarik Tunai,29077254,2022-08-23,Jakarta
+Pelanggan4,Deposit,18650374,2020-04-26,Surabaya
+Pelanggan3,Transfer,8247561,2022-02-06,Medan
+Pelanggan1,Transfer,31132580,2020-11-08,Surabaya
+Pelanggan3,Tarik Tunai,35269858,2022-05-11,Medan
+Pelanggan6,Deposit,15762183,2020-10-18,Jakarta
+Pelanggan8,Transfer,39555695,2020-12-29,Bandung
+Pelanggan10,Transfer,47573102,2020-10-08,Yogyakarta
+Pelanggan4,Transfer,49945491,2020-12-18,Bandung
+Pelanggan7,Deposit,11364982,2022-08-27,Medan
+Pelanggan6,Transfer,5108639,2021-10-05,Yogyakarta
+Pelanggan4,Deposit,15512865,2022-10-01,Medan
+Pelanggan1,Deposit,41619272,2020-05-09,Medan
+Pelanggan8,Tarik Tunai,9658686,2021-03-17,Bandung
+Pelanggan5,Transfer,775941,2021-11-23,Medan
+Pelanggan5,Deposit,33343090,2021-08-22,Yogyakarta
+Pelanggan10,Tarik Tunai,4940138,2021-10-26,Jakarta
+Pelanggan3,Tarik Tunai,43825409,2021-10-22,Bandung
+Pelanggan6,Tarik Tunai,12163141,2022-08-18,Bandung
+Pelanggan2,Tarik Tunai,38690655,2020-02-02,Yogyakarta
+Pelanggan1,Transfer,39077298,2021-01-11,Yogyakarta
+Pelanggan10,Tarik Tunai,39625416,2022-10-27,Bandung
+Pelanggan2,Transfer,36916942,2022-05-07,Medan
+Pelanggan8,Deposit,15330297,2020-02-15,Yogyakarta
+Pelanggan9,Transfer,36452253,2021-08-12,Medan
+Pelanggan3,Transfer,11252564,2022-10-26,Bandung
+Pelanggan6,Deposit,26827948,2022-09-09,Yogyakarta
+Pelanggan4,Tarik Tunai,45577773,2021-03-21,Medan
+Pelanggan1,Tarik Tunai,47399261,2021-08-18,Medan
+Pelanggan7,Tarik Tunai,4619728,2022-02-09,Yogyakarta
+Pelanggan10,Transfer,48019864,2021-04-30,Medan
+Pelanggan4,Deposit,3935843,2020-02-25,Surabaya
+Pelanggan1,Transfer,36501732,2020-05-11,Jakarta
+Pelanggan5,Tarik Tunai,20551445,2021-01-06,Jakarta
+Pelanggan2,Deposit,43866622,2021-09-04,Jakarta
+Pelanggan9,Transfer,4432613,2020-04-30,Surabaya
+Pelanggan7,Deposit,10623257,2022-11-22,Medan
+Pelanggan9,Transfer,10577171,2020-07-16,Medan
+Pelanggan9,Transfer,31092150,2021-05-02,Yogyakarta
+Pelanggan9,Transfer,7549754,2022-06-20,Bandung
+Pelanggan9,Tarik Tunai,30618112,2021-10-22,Medan
+Pelanggan5,Transfer,7557835,2020-07-30,Surabaya
+Pelanggan8,Transfer,32486548,2020-09-06,Medan
+Pelanggan9,Deposit,2757383,2022-08-05,Yogyakarta
+Pelanggan1,Tarik Tunai,20524467,2022-08-14,Bandung
+Pelanggan1,Deposit,7382856,2021-11-05,Yogyakarta
+Pelanggan7,Tarik Tunai,10798302,2022-01-17,Surabaya
+Pelanggan6,Tarik Tunai,24571464,2022-01-03,Jakarta
+Pelanggan3,Tarik Tunai,16453083,2020-03-27,Medan
+Pelanggan1,Transfer,6142563,2021-12-21,Yogyakarta
+Pelanggan4,Tarik Tunai,47220916,2022-10-21,Surabaya
+Pelanggan7,Deposit,26749258,2022-07-18,Surabaya
+Pelanggan6,Transfer,37180137,2020-05-15,Bandung
+Pelanggan1,Deposit,39143006,2021-10-06,Jakarta
+Pelanggan7,Deposit,42120346,2021-10-27,Yogyakarta
+Pelanggan1,Tarik Tunai,14648418,2021-04-05,Surabaya
+Pelanggan9,Tarik Tunai,5217827,2021-11-02,Medan
+Pelanggan2,Deposit,47245571,2020-08-02,Jakarta
+Pelanggan7,Deposit,44155439,2022-02-28,Bandung
+Pelanggan5,Deposit,33922620,2021-12-31,Surabaya
+Pelanggan5,Deposit,12270969,2020-03-25,Jakarta
+Pelanggan10,Transfer,35591682,2020-03-22,Jakarta
+Pelanggan5,Deposit,47751311,2021-11-11,Medan
+Pelanggan9,Deposit,28906458,2020-06-22,Surabaya
+Pelanggan9,Tarik Tunai,32738619,2021-09-18,Bandung
+Pelanggan10,Transfer,21195618,2022-02-06,Surabaya
+Pelanggan9,Transfer,39584341,2020-06-26,Bandung
+Pelanggan7,Deposit,38306327,2021-06-24,Jakarta
+Pelanggan8,Tarik Tunai,37515765,2022-12-08,Medan
+Pelanggan1,Deposit,40364423,2022-09-30,Surabaya
+Pelanggan2,Transfer,9287190,2020-07-01,Bandung
+Pelanggan8,Deposit,17757453,2022-09-04,Jakarta
+Pelanggan1,Tarik Tunai,3045853,2020-11-07,Medan
+Pelanggan7,Tarik Tunai,5719659,2020-08-03,Surabaya
+Pelanggan6,Deposit,5369010,2022-02-04,Jakarta
+Pelanggan9,Deposit,36665462,2021-04-29,Medan
+Pelanggan6,Transfer,30567309,2020-04-13,Yogyakarta
+Pelanggan1,Tarik Tunai,11476604,2022-10-01,Yogyakarta
+Pelanggan4,Transfer,18631449,2022-03-26,Jakarta
+Pelanggan10,Deposit,19287472,2022-03-17,Jakarta
+Pelanggan5,Deposit,18106998,2022-11-22,Bandung
+Pelanggan10,Transfer,7375153,2022-06-02,Yogyakarta
+Pelanggan4,Deposit,12017774,2021-12-08,Surabaya
+Pelanggan10,Tarik Tunai,35459897,2020-01-12,Medan
+Pelanggan4,Transfer,20244740,2022-12-03,Surabaya
+Pelanggan10,Tarik Tunai,42992083,2020-06-15,Yogyakarta
+Pelanggan7,Deposit,9200696,2021-10-21,Bandung
+Pelanggan1,Transfer,18972407,2021-07-12,Bandung
+Pelanggan9,Deposit,20461191,2022-06-19,Bandung
+Pelanggan7,Deposit,20552404,2022-04-29,Jakarta
+Pelanggan5,Deposit,27614605,2021-02-19,Medan
+Pelanggan6,Transfer,33041246,2022-10-24,Jakarta
+Pelanggan5,Transfer,27913684,2022-02-22,Jakarta
+Pelanggan8,Tarik Tunai,15898991,2022-11-14,Jakarta
+Pelanggan5,Transfer,42041159,2022-01-01,Medan
+Pelanggan6,Tarik Tunai,42582945,2020-08-30,Surabaya
+Pelanggan5,Deposit,5825562,2020-05-26,Bandung
+Pelanggan1,Tarik Tunai,8550975,2021-01-20,Medan
+Pelanggan6,Tarik Tunai,8599752,2020-11-19,Medan
+Pelanggan7,Tarik Tunai,47359571,2020-11-10,Jakarta
+Pelanggan3,Transfer,35170359,2021-03-03,Yogyakarta
+Pelanggan6,Tarik Tunai,46669362,2022-07-24,Yogyakarta
+Pelanggan10,Transfer,2330768,2022-07-03,Jakarta
+Pelanggan7,Transfer,40167857,2020-04-08,Medan
+Pelanggan5,Deposit,46457211,2022-05-26,Jakarta
+Pelanggan10,Transfer,26795164,2022-11-21,Surabaya
+Pelanggan7,Transfer,19813521,2022-08-03,Yogyakarta
+Pelanggan6,Deposit,36528376,2021-08-09,Surabaya
+Pelanggan2,Tarik Tunai,9826947,2020-09-13,Jakarta
+Pelanggan10,Deposit,1193891,2020-07-22,Bandung
+Pelanggan6,Tarik Tunai,11273097,2021-02-15,Surabaya
+Pelanggan5,Transfer,11030961,2022-01-19,Yogyakarta
+Pelanggan9,Transfer,34854382,2021-11-26,Yogyakarta
+Pelanggan9,Transfer,34885701,2022-12-13,Yogyakarta
+Pelanggan7,Tarik Tunai,7793018,2022-08-02,Bandung
+Pelanggan6,Deposit,6207393,2021-03-21,Yogyakarta
+Pelanggan2,Tarik Tunai,958081,2020-06-19,Medan
+Pelanggan3,Transfer,24996346,2020-11-11,Bandung
+Pelanggan10,Transfer,1605776,2022-12-01,Jakarta
+Pelanggan3,Deposit,43549290,2021-10-10,Jakarta
+Pelanggan2,Deposit,11953994,2022-06-13,Jakarta
+Pelanggan1,Tarik Tunai,14530372,2022-01-05,Yogyakarta
+Pelanggan8,Transfer,8305616,2022-04-22,Bandung
+Pelanggan2,Transfer,8847817,2021-01-12,Jakarta
+Pelanggan8,Tarik Tunai,41648990,2020-12-04,Medan
+Pelanggan1,Transfer,12654480,2021-04-09,Medan
+Pelanggan10,Tarik Tunai,47941803,2020-08-13,Medan
+Pelanggan9,Tarik Tunai,21209168,2021-09-17,Jakarta
+Pelanggan6,Deposit,14728039,2022-01-13,Yogyakarta
+Pelanggan1,Deposit,32770976,2022-12-27,Medan
+Pelanggan8,Deposit,34339285,2022-01-09,Bandung
+Pelanggan2,Tarik Tunai,38976242,2021-07-06,Jakarta
+Pelanggan1,Deposit,31823225,2020-05-09,Surabaya
+Pelanggan2,Deposit,10966201,2022-08-12,Surabaya
+Pelanggan5,Transfer,25332623,2021-04-23,Yogyakarta
+Pelanggan6,Transfer,23396315,2022-02-14,Yogyakarta
+Pelanggan6,Transfer,26000729,2022-08-26,Medan
+Pelanggan3,Tarik Tunai,41436441,2020-05-21,Medan
+Pelanggan5,Tarik Tunai,18334017,2020-03-14,Bandung
+Pelanggan10,Deposit,47386726,2021-11-03,Medan
+Pelanggan9,Tarik Tunai,19668063,2021-05-16,Medan
+Pelanggan2,Deposit,7385162,2020-05-19,Bandung
+Pelanggan6,Tarik Tunai,30905134,2020-10-27,Yogyakarta
+Pelanggan9,Deposit,11947353,2021-02-14,Jakarta
+Pelanggan5,Tarik Tunai,45414308,2022-03-30,Surabaya
+Pelanggan4,Deposit,21329833,2020-07-23,Bandung
+Pelanggan1,Tarik Tunai,24917396,2020-08-25,Yogyakarta
+Pelanggan7,Tarik Tunai,45616310,2021-04-26,Surabaya
+Pelanggan1,Tarik Tunai,28121424,2021-10-16,Jakarta
+Pelanggan7,Transfer,39600697,2021-09-15,Bandung
+Pelanggan8,Tarik Tunai,40795011,2022-11-18,Yogyakarta
+Pelanggan5,Deposit,12614581,2020-08-07,Bandung
+Pelanggan1,Tarik Tunai,4250223,2021-06-21,Jakarta
+Pelanggan8,Transfer,36316739,2021-06-17,Jakarta
+Pelanggan9,Transfer,28710321,2020-01-20,Surabaya
+Pelanggan6,Deposit,35078311,2020-05-12,Medan
+Pelanggan10,Transfer,14541749,2021-04-21,Jakarta
+Pelanggan8,Deposit,4061810,2021-08-03,Bandung
+Pelanggan3,Tarik Tunai,11820098,2021-11-12,Jakarta
+Pelanggan4,Transfer,47829151,2021-05-13,Medan
+Pelanggan3,Deposit,48935045,2020-02-11,Surabaya
+Pelanggan9,Deposit,34534855,2021-04-27,Yogyakarta
+Pelanggan7,Deposit,36156146,2020-02-02,Medan
+Pelanggan5,Deposit,47684741,2021-07-01,Jakarta
+Pelanggan8,Tarik Tunai,7966444,2021-11-15,Jakarta
+Pelanggan1,Transfer,46562727,2021-03-03,Bandung
+Pelanggan1,Tarik Tunai,45657886,2020-09-21,Jakarta
+Pelanggan4,Deposit,31480709,2021-06-14,Yogyakarta
+Pelanggan1,Tarik Tunai,46151384,2022-05-02,Bandung
+Pelanggan8,Transfer,5272043,2022-10-02,Jakarta
+Pelanggan3,Transfer,44510021,2022-01-22,Yogyakarta
+Pelanggan9,Tarik Tunai,42901446,2022-01-21,Jakarta
+Pelanggan2,Deposit,9883648,2022-10-22,Bandung
+Pelanggan10,Tarik Tunai,7577865,2020-09-13,Surabaya
+Pelanggan10,Transfer,7962784,2021-08-30,Jakarta
+Pelanggan4,Deposit,22980443,2022-03-23,Jakarta
+Pelanggan4,Transfer,38548252,2020-12-30,Yogyakarta
+Pelanggan6,Deposit,46436604,2022-05-10,Medan
+Pelanggan8,Tarik Tunai,26771700,2022-03-15,Medan
+Pelanggan6,Deposit,44356020,2021-09-19,Yogyakarta
+Pelanggan6,Transfer,2749360,2021-07-02,Yogyakarta
+Pelanggan10,Tarik Tunai,4770759,2022-10-05,Medan
+Pelanggan3,Transfer,7686792,2022-02-06,Jakarta
+Pelanggan6,Deposit,6107825,2021-03-12,Surabaya
+Pelanggan5,Tarik Tunai,15536702,2022-03-06,Surabaya
+Pelanggan3,Transfer,30971792,2022-11-30,Bandung
+Pelanggan7,Deposit,10172196,2021-08-20,Yogyakarta
+Pelanggan5,Tarik Tunai,21585406,2021-09-24,Bandung
+Pelanggan9,Deposit,40905544,2020-03-01,Yogyakarta
+Pelanggan6,Transfer,5769973,2021-05-28,Surabaya
+Pelanggan1,Tarik Tunai,19526145,2022-05-14,Bandung
+Pelanggan9,Tarik Tunai,15584003,2021-10-30,Medan
+Pelanggan6,Transfer,38812627,2021-12-16,Yogyakarta
+Pelanggan5,Transfer,43489513,2020-06-12,Bandung
+Pelanggan4,Tarik Tunai,20127756,2020-03-20,Bandung
+Pelanggan5,Tarik Tunai,49914242,2021-07-02,Bandung
+Pelanggan6,Tarik Tunai,41587920,2020-06-15,Medan
+Pelanggan5,Transfer,25857373,2022-10-15,Surabaya
+Pelanggan8,Tarik Tunai,20324766,2022-01-30,Jakarta
+Pelanggan3,Deposit,25725530,2021-09-27,Jakarta
+Pelanggan9,Deposit,29166707,2020-12-16,Jakarta
+Pelanggan8,Deposit,22601951,2022-05-21,Jakarta
+Pelanggan4,Transfer,8737450,2020-01-07,Bandung
+Pelanggan10,Tarik Tunai,12766148,2021-03-11,Yogyakarta
+Pelanggan2,Tarik Tunai,2832964,2022-04-21,Bandung
+Pelanggan2,Deposit,47684034,2020-04-02,Medan
+Pelanggan1,Deposit,5378990,2021-03-20,Medan
+Pelanggan3,Deposit,49493305,2022-10-09,Surabaya
+Pelanggan7,Deposit,42119884,2021-01-09,Surabaya
+Pelanggan6,Deposit,40013508,2020-06-07,Yogyakarta
+Pelanggan2,Transfer,13121690,2021-05-29,Jakarta
+Pelanggan6,Transfer,44927917,2020-03-26,Bandung
+Pelanggan5,Deposit,15022304,2021-10-13,Bandung
+Pelanggan8,Transfer,16579636,2022-07-14,Yogyakarta
+Pelanggan5,Deposit,7166614,2021-11-28,Yogyakarta
+Pelanggan6,Transfer,35173329,2021-12-23,Medan
+Pelanggan6,Transfer,36032034,2020-12-07,Yogyakarta
+Pelanggan9,Transfer,43351138,2021-01-02,Bandung
+Pelanggan7,Deposit,16329924,2022-12-15,Bandung
+Pelanggan10,Tarik Tunai,47687342,2022-11-09,Surabaya
+Pelanggan6,Transfer,33513003,2021-05-16,Bandung
+Pelanggan8,Tarik Tunai,46455815,2022-01-18,Surabaya
+Pelanggan5,Transfer,13369592,2020-10-13,Medan
+Pelanggan9,Deposit,28155921,2021-08-30,Yogyakarta
+Pelanggan3,Tarik Tunai,25848424,2022-05-15,Medan
+Pelanggan3,Transfer,34601948,2021-05-03,Bandung
+Pelanggan10,Tarik Tunai,39308228,2021-06-23,Medan
+Pelanggan3,Deposit,47747848,2020-10-01,Yogyakarta
+Pelanggan3,Tarik Tunai,42880991,2021-12-21,Surabaya
+Pelanggan10,Deposit,13019230,2021-08-25,Yogyakarta
+Pelanggan1,Transfer,40584142,2021-05-02,Bandung
+Pelanggan5,Tarik Tunai,47638049,2020-06-26,Bandung
+Pelanggan10,Tarik Tunai,1839720,2020-10-16,Bandung
+Pelanggan6,Transfer,14657603,2022-02-05,Surabaya
+Pelanggan8,Tarik Tunai,43837003,2022-04-26,Surabaya
+Pelanggan8,Tarik Tunai,40611488,2022-05-17,Jakarta
+Pelanggan1,Transfer,11768204,2022-09-02,Surabaya
+Pelanggan9,Transfer,11458590,2022-09-01,Bandung
+Pelanggan7,Deposit,38094521,2020-03-20,Yogyakarta
+Pelanggan5,Transfer,13886882,2020-12-04,Surabaya
+Pelanggan8,Tarik Tunai,41673421,2021-11-29,Medan
+Pelanggan8,Deposit,1746981,2020-12-05,Jakarta
+Pelanggan1,Transfer,15238071,2020-04-22,Bandung
+Pelanggan2,Deposit,23921562,2022-05-25,Bandung
+Pelanggan2,Deposit,3846971,2020-12-18,Surabaya
+Pelanggan8,Tarik Tunai,48550289,2020-03-14,Bandung
+Pelanggan6,Tarik Tunai,18006009,2020-11-05,Jakarta
+Pelanggan8,Deposit,3728271,2022-06-23,Jakarta
+Pelanggan2,Transfer,34553787,2021-05-21,Surabaya
+Pelanggan8,Transfer,21031197,2021-12-30,Bandung
+Pelanggan5,Transfer,36484011,2022-08-17,Bandung
+Pelanggan1,Deposit,45281206,2021-01-20,Yogyakarta
+Pelanggan4,Tarik Tunai,40897394,2020-09-25,Jakarta
+Pelanggan8,Deposit,42348980,2022-03-24,Surabaya
+Pelanggan4,Transfer,7482173,2022-02-22,Yogyakarta
+Pelanggan5,Deposit,22807789,2020-09-24,Jakarta
+Pelanggan8,Transfer,34513719,2021-03-17,Yogyakarta
+Pelanggan9,Tarik Tunai,47184821,2021-01-19,Medan
+Pelanggan9,Deposit,18091469,2021-01-13,Surabaya
+Pelanggan7,Tarik Tunai,43512993,2021-10-27,Yogyakarta
+Pelanggan10,Tarik Tunai,2464348,2021-12-24,Surabaya
+Pelanggan2,Tarik Tunai,9509845,2020-09-07,Yogyakarta
+Pelanggan8,Tarik Tunai,13494863,2020-12-29,Yogyakarta
+Pelanggan9,Transfer,13534750,2022-03-29,Medan
+Pelanggan4,Deposit,13391003,2021-11-11,Surabaya
+Pelanggan9,Deposit,40069994,2020-04-23,Surabaya
+Pelanggan5,Tarik Tunai,42882038,2020-11-12,Surabaya
+Pelanggan5,Tarik Tunai,10468850,2021-01-27,Medan
+Pelanggan6,Transfer,1122842,2022-06-26,Surabaya
+Pelanggan7,Deposit,5693019,2020-04-13,Bandung
+Pelanggan9,Transfer,15999703,2020-09-22,Jakarta
+Pelanggan5,Tarik Tunai,25459981,2020-09-13,Bandung
+Pelanggan2,Deposit,41554169,2022-08-06,Bandung
+Pelanggan10,Deposit,13755443,2021-04-06,Bandung
+Pelanggan8,Deposit,38451374,2020-04-23,Medan
+Pelanggan3,Tarik Tunai,27154174,2020-12-04,Jakarta
+Pelanggan6,Transfer,29337544,2021-05-13,Surabaya
+Pelanggan8,Tarik Tunai,45131205,2021-07-16,Medan
+Pelanggan5,Transfer,17525141,2021-10-25,Yogyakarta
+Pelanggan3,Transfer,37812446,2020-03-26,Medan
+Pelanggan2,Transfer,8819040,2021-07-05,Medan
+Pelanggan10,Tarik Tunai,7983913,2022-09-13,Jakarta
+Pelanggan3,Transfer,44198102,2020-05-12,Jakarta
+Pelanggan1,Deposit,27643708,2021-01-16,Medan
+Pelanggan1,Tarik Tunai,40327849,2020-12-12,Bandung
+Pelanggan4,Deposit,8963597,2021-12-13,Yogyakarta
+Pelanggan4,Deposit,40021080,2021-11-17,Jakarta
+Pelanggan7,Tarik Tunai,33351171,2022-07-09,Jakarta
+Pelanggan6,Deposit,46865453,2020-12-27,Medan
+Pelanggan1,Deposit,48558592,2022-10-30,Medan
+Pelanggan3,Tarik Tunai,45250126,2022-01-15,Bandung
+Pelanggan2,Tarik Tunai,32583811,2020-09-29,Jakarta
+Pelanggan5,Transfer,27240682,2020-08-30,Surabaya
+Pelanggan9,Transfer,29141028,2020-11-23,Bandung
+Pelanggan2,Tarik Tunai,6388643,2021-06-04,Yogyakarta
+Pelanggan6,Tarik Tunai,37606031,2021-10-10,Jakarta
+Pelanggan10,Tarik Tunai,7074053,2021-10-26,Bandung
+Pelanggan9,Deposit,40085789,2020-09-30,Medan
+Pelanggan4,Tarik Tunai,7384875,2021-06-20,Yogyakarta
+Pelanggan9,Transfer,19341746,2022-10-19,Bandung
+Pelanggan4,Deposit,4945346,2021-02-26,Yogyakarta
+Pelanggan9,Deposit,46304415,2022-01-06,Yogyakarta
+Pelanggan5,Deposit,40158247,2020-04-23,Bandung
+Pelanggan1,Transfer,6114516,2021-09-09,Yogyakarta
+Pelanggan7,Transfer,38135555,2022-06-18,Jakarta
+Pelanggan6,Tarik Tunai,3142685,2022-03-07,Medan
+Pelanggan10,Transfer,47794597,2020-10-06,Jakarta
+Pelanggan1,Tarik Tunai,18499982,2021-12-19,Yogyakarta
+Pelanggan2,Deposit,33580324,2021-07-21,Medan
+Pelanggan5,Transfer,36751779,2021-09-28,Jakarta
+Pelanggan4,Deposit,42886996,2020-01-28,Yogyakarta
+Pelanggan6,Tarik Tunai,2998471,2020-08-13,Yogyakarta
+Pelanggan10,Tarik Tunai,25039706,2022-03-02,Bandung
+Pelanggan8,Deposit,22699388,2020-09-24,Jakarta
+Pelanggan7,Deposit,27853374,2020-01-16,Bandung
+Pelanggan3,Deposit,20570209,2021-05-29,Bandung
+Pelanggan4,Transfer,10396384,2021-09-18,Jakarta
+Pelanggan1,Tarik Tunai,18566788,2020-08-01,Bandung
+Pelanggan6,Tarik Tunai,21849015,2021-06-30,Jakarta
+Pelanggan3,Tarik Tunai,4968771,2022-04-08,Jakarta
+Pelanggan5,Deposit,21129811,2022-05-22,Bandung
+Pelanggan8,Tarik Tunai,28880911,2021-01-27,Yogyakarta
+Pelanggan3,Deposit,31173861,2022-04-01,Surabaya
+Pelanggan1,Tarik Tunai,24667822,2020-09-13,Yogyakarta
+Pelanggan3,Transfer,7953980,2021-11-17,Surabaya
+Pelanggan4,Transfer,3934993,2020-08-29,Medan
+Pelanggan7,Tarik Tunai,8608315,2021-07-09,Surabaya
+Pelanggan2,Tarik Tunai,48280681,2020-05-03,Jakarta
+Pelanggan7,Transfer,27085589,2022-06-07,Jakarta
+Pelanggan3,Deposit,18399386,2021-09-22,Bandung
+Pelanggan10,Deposit,6760422,2022-09-18,Jakarta
+Pelanggan7,Tarik Tunai,47211938,2020-11-11,Surabaya
+Pelanggan10,Deposit,21247416,2021-06-22,Bandung
+Pelanggan5,Deposit,1174971,2020-01-04,Bandung
+Pelanggan6,Deposit,45708138,2020-05-03,Medan
+Pelanggan4,Deposit,34742484,2022-08-16,Yogyakarta
+Pelanggan4,Tarik Tunai,3188907,2020-07-25,Medan
+Pelanggan4,Tarik Tunai,35217194,2021-07-21,Yogyakarta
+Pelanggan3,Transfer,42493235,2021-11-14,Jakarta
+Pelanggan5,Deposit,43210531,2020-12-31,Yogyakarta
+Pelanggan4,Deposit,26125399,2020-10-08,Yogyakarta
+Pelanggan4,Deposit,2925035,2021-02-02,Yogyakarta
+Pelanggan5,Deposit,4409424,2020-10-12,Yogyakarta
+Pelanggan5,Deposit,15501418,2021-10-04,Bandung
+Pelanggan2,Deposit,14677485,2020-09-06,Jakarta
+Pelanggan7,Deposit,33704662,2021-02-21,Medan
+Pelanggan7,Tarik Tunai,46562571,2022-02-12,Yogyakarta
+Pelanggan6,Tarik Tunai,47637856,2020-01-29,Yogyakarta
+Pelanggan8,Deposit,11067554,2022-07-27,Medan
+Pelanggan7,Transfer,28414110,2020-07-31,Medan
+Pelanggan9,Transfer,23437887,2020-08-10,Yogyakarta
+Pelanggan2,Tarik Tunai,22624757,2020-10-06,Jakarta
+Pelanggan7,Deposit,20829749,2022-10-23,Surabaya
+Pelanggan10,Transfer,23823071,2022-09-30,Bandung
+Pelanggan6,Transfer,35298304,2020-02-07,Medan
+Pelanggan7,Tarik Tunai,1277284,2022-10-28,Jakarta
+Pelanggan7,Transfer,28486865,2022-10-26,Yogyakarta
+Pelanggan3,Tarik Tunai,35139810,2022-12-12,Surabaya
+Pelanggan4,Deposit,34632616,2020-12-06,Yogyakarta
+Pelanggan7,Tarik Tunai,40717725,2022-03-10,Jakarta
+Pelanggan1,Tarik Tunai,7504544,2022-11-16,Bandung
+Pelanggan5,Deposit,8431508,2021-11-20,Surabaya
+Pelanggan2,Transfer,11055734,2020-09-23,Bandung
+Pelanggan8,Transfer,41376436,2020-06-15,Medan
+Pelanggan7,Deposit,14766958,2022-01-05,Jakarta
+Pelanggan9,Transfer,46732849,2021-01-01,Yogyakarta
+Pelanggan2,Transfer,44749455,2021-11-04,Surabaya
+Pelanggan1,Transfer,28942039,2022-06-12,Jakarta
+Pelanggan5,Transfer,4106828,2020-09-01,Medan
+Pelanggan9,Transfer,11579317,2020-04-11,Surabaya
+Pelanggan2,Transfer,28825545,2022-09-15,Jakarta
+Pelanggan8,Tarik Tunai,19296085,2021-05-24,Jakarta
+Pelanggan8,Transfer,19475446,2021-08-08,Yogyakarta
+Pelanggan1,Transfer,48031204,2021-07-03,Medan
+Pelanggan8,Deposit,31560693,2021-01-19,Bandung
+Pelanggan10,Transfer,16922808,2020-02-03,Surabaya
+Pelanggan9,Deposit,5218513,2021-09-25,Medan
+Pelanggan7,Tarik Tunai,22830616,2020-01-26,Medan
+Pelanggan10,Deposit,47484108,2022-04-04,Yogyakarta
+Pelanggan10,Deposit,16007357,2022-01-26,Jakarta
+Pelanggan4,Tarik Tunai,22972758,2021-12-29,Jakarta
+Pelanggan4,Transfer,29775315,2020-10-25,Surabaya
+Pelanggan2,Deposit,16169927,2020-02-04,Surabaya
+Pelanggan10,Deposit,41932505,2021-10-05,Surabaya
+Pelanggan7,Transfer,14955628,2022-12-31,Jakarta
+Pelanggan4,Tarik Tunai,7376812,2020-02-14,Jakarta
+Pelanggan1,Tarik Tunai,48412295,2021-11-25,Yogyakarta
+Pelanggan9,Transfer,1382786,2022-10-22,Bandung
+Pelanggan4,Tarik Tunai,35579578,2022-10-16,Medan
+Pelanggan6,Tarik Tunai,38666094,2021-09-06,Yogyakarta
+Pelanggan4,Transfer,28487455,2022-07-04,Surabaya
+Pelanggan2,Transfer,8130782,2021-02-11,Yogyakarta
+Pelanggan2,Tarik Tunai,26110499,2020-04-06,Medan
+Pelanggan1,Tarik Tunai,23895286,2022-07-27,Medan
+Pelanggan6,Transfer,38324602,2020-05-03,Surabaya
+Pelanggan9,Tarik Tunai,24814069,2022-08-23,Surabaya
+Pelanggan1,Transfer,31067201,2021-02-01,Medan
+Pelanggan8,Transfer,4691196,2021-07-23,Medan
+Pelanggan2,Deposit,17436410,2022-10-11,Jakarta
+Pelanggan5,Transfer,18585738,2020-01-20,Surabaya
+Pelanggan5,Deposit,18545595,2020-06-23,Bandung
+Pelanggan1,Tarik Tunai,2504065,2021-04-15,Medan
+Pelanggan6,Deposit,32826345,2021-05-02,Yogyakarta
+Pelanggan7,Deposit,10565657,2020-12-03,Medan
+Pelanggan3,Deposit,13104753,2020-12-29,Yogyakarta
+Pelanggan6,Transfer,15073910,2022-12-08,Bandung
+Pelanggan5,Deposit,49700107,2020-06-17,Medan
+Pelanggan9,Transfer,11769988,2020-07-24,Surabaya
+Pelanggan10,Tarik Tunai,45286919,2021-01-13,Bandung
+Pelanggan6,Tarik Tunai,23990812,2020-04-14,Jakarta
+Pelanggan6,Transfer,18205492,2021-10-24,Yogyakarta
+Pelanggan7,Tarik Tunai,40484527,2022-12-09,Yogyakarta
+Pelanggan9,Tarik Tunai,46369975,2020-07-19,Yogyakarta
+Pelanggan8,Tarik Tunai,9481055,2020-03-11,Medan
+Pelanggan2,Transfer,21261729,2021-12-18,Yogyakarta
+Pelanggan6,Transfer,36606029,2020-07-28,Yogyakarta
+Pelanggan1,Tarik Tunai,33390885,2022-06-26,Medan
+Pelanggan10,Tarik Tunai,14313340,2022-10-14,Surabaya
+Pelanggan3,Tarik Tunai,2718487,2021-10-20,Medan
+Pelanggan6,Tarik Tunai,40906313,2021-06-13,Yogyakarta
+Pelanggan4,Deposit,9496936,2021-11-25,Medan
+Pelanggan4,Deposit,3756470,2022-02-22,Jakarta
+Pelanggan2,Deposit,35031714,2022-10-18,Jakarta
+Pelanggan1,Deposit,45459003,2021-09-07,Bandung
+Pelanggan1,Transfer,11951198,2020-03-25,Bandung
+Pelanggan4,Transfer,16594324,2020-12-28,Bandung
+Pelanggan10,Transfer,4131995,2022-02-14,Yogyakarta
+Pelanggan7,Tarik Tunai,49642976,2020-02-28,Bandung
+Pelanggan5,Transfer,10462965,2020-12-01,Medan
+Pelanggan4,Deposit,11909027,2020-05-13,Yogyakarta
+Pelanggan2,Tarik Tunai,38678432,2022-09-18,Medan
+Pelanggan10,Tarik Tunai,26285262,2022-11-18,Yogyakarta
+Pelanggan10,Tarik Tunai,25235328,2022-03-25,Jakarta
+Pelanggan5,Transfer,14305554,2021-06-04,Yogyakarta
+Pelanggan2,Transfer,26586282,2020-11-18,Yogyakarta
+Pelanggan3,Deposit,46699578,2021-07-04,Jakarta
+Pelanggan1,Transfer,20424505,2020-03-12,Jakarta
+Pelanggan8,Deposit,49140101,2020-06-11,Surabaya
+Pelanggan5,Transfer,33535936,2022-12-03,Bandung
+Pelanggan4,Deposit,11579585,2022-08-23,Medan
+Pelanggan8,Tarik Tunai,751868,2020-11-22,Surabaya
+Pelanggan8,Tarik Tunai,14077548,2020-08-04,Yogyakarta
+Pelanggan4,Deposit,43974461,2020-08-19,Surabaya
+Pelanggan3,Deposit,31457656,2021-11-01,Surabaya
+Pelanggan7,Tarik Tunai,38166585,2022-10-11,Jakarta
+Pelanggan7,Deposit,5037069,2022-12-24,Medan
+Pelanggan3,Deposit,26465856,2021-05-06,Surabaya
+Pelanggan5,Transfer,37397560,2020-05-13,Surabaya
+Pelanggan2,Deposit,18211056,2021-05-29,Bandung
+Pelanggan2,Deposit,46626943,2020-03-16,Jakarta
+Pelanggan10,Deposit,4793031,2020-06-11,Yogyakarta
+Pelanggan8,Transfer,36559546,2020-09-12,Medan
+Pelanggan3,Tarik Tunai,25547749,2021-06-12,Surabaya
+Pelanggan4,Transfer,9887428,2022-04-03,Yogyakarta
+Pelanggan4,Transfer,3962388,2022-05-30,Bandung
+Pelanggan8,Tarik Tunai,46519804,2022-10-08,Yogyakarta
+Pelanggan5,Deposit,48978340,2022-01-08,Yogyakarta
+Pelanggan10,Transfer,36062237,2020-02-15,Medan
+Pelanggan8,Tarik Tunai,44160830,2020-01-11,Bandung
+Pelanggan9,Transfer,47762685,2021-07-08,Yogyakarta
+Pelanggan7,Deposit,5137804,2020-10-15,Jakarta
+Pelanggan3,Tarik Tunai,42221825,2022-03-30,Surabaya
+Pelanggan5,Tarik Tunai,13068205,2021-03-01,Bandung
+Pelanggan3,Tarik Tunai,16205236,2022-01-12,Medan
+Pelanggan6,Deposit,12142654,2020-02-20,Surabaya
+Pelanggan5,Transfer,3713396,2020-11-29,Medan
+Pelanggan4,Deposit,8765072,2022-02-01,Jakarta
+Pelanggan8,Transfer,17072244,2022-09-26,Yogyakarta
+Pelanggan8,Transfer,4042088,2022-01-22,Yogyakarta
+Pelanggan4,Tarik Tunai,32896428,2020-02-08,Surabaya
+Pelanggan6,Deposit,25918920,2020-07-15,Yogyakarta
+Pelanggan7,Deposit,36955796,2022-07-08,Yogyakarta
+Pelanggan4,Transfer,15194099,2021-09-10,Jakarta
+Pelanggan1,Tarik Tunai,2472229,2022-11-29,Surabaya
+Pelanggan10,Tarik Tunai,38075345,2020-08-13,Yogyakarta
+Pelanggan6,Tarik Tunai,33474625,2022-01-04,Surabaya
+Pelanggan6,Tarik Tunai,3150682,2020-02-02,Bandung
+Pelanggan4,Deposit,32428256,2020-06-16,Medan
+Pelanggan7,Tarik Tunai,45315214,2021-02-16,Surabaya
+Pelanggan7,Tarik Tunai,35017536,2020-11-14,Surabaya
+Pelanggan7,Transfer,13480835,2022-01-28,Jakarta
+Pelanggan7,Transfer,10495184,2020-11-14,Bandung
+Pelanggan2,Transfer,37961526,2022-10-06,Bandung
+Pelanggan5,Transfer,21140172,2021-07-08,Surabaya
+Pelanggan6,Transfer,30394999,2021-10-17,Bandung
+Pelanggan3,Transfer,21160865,2022-04-09,Surabaya
+Pelanggan9,Transfer,36350484,2021-11-16,Jakarta
+Pelanggan3,Transfer,23140804,2020-03-14,Medan
+Pelanggan5,Tarik Tunai,23174159,2022-11-27,Yogyakarta
+Pelanggan3,Tarik Tunai,49356109,2020-03-27,Bandung
+Pelanggan1,Transfer,14418063,2020-10-25,Jakarta
+Pelanggan8,Transfer,38651442,2022-07-24,Medan
+Pelanggan7,Deposit,21556859,2022-05-05,Yogyakarta
+Pelanggan9,Tarik Tunai,6067565,2021-03-24,Bandung
+Pelanggan3,Tarik Tunai,8688278,2020-06-28,Surabaya
+Pelanggan5,Tarik Tunai,7022793,2022-12-17,Yogyakarta
+Pelanggan10,Tarik Tunai,12751664,2020-05-01,Jakarta
+Pelanggan5,Deposit,1957239,2022-08-10,Medan
+Pelanggan6,Transfer,24219635,2020-05-17,Yogyakarta
+Pelanggan3,Transfer,22779781,2021-07-09,Yogyakarta
+Pelanggan5,Transfer,21426412,2022-11-13,Yogyakarta
+Pelanggan9,Transfer,43383911,2021-06-10,Yogyakarta
+Pelanggan2,Tarik Tunai,19329070,2021-08-19,Bandung
+Pelanggan4,Tarik Tunai,15369266,2022-12-26,Bandung
+Pelanggan6,Transfer,49872093,2021-05-07,Jakarta
+Pelanggan7,Deposit,1306099,2021-04-16,Yogyakarta
+Pelanggan4,Transfer,42742790,2022-01-28,Bandung
+Pelanggan3,Transfer,43319619,2021-06-12,Jakarta
+Pelanggan1,Deposit,13730533,2020-01-30,Bandung
+Pelanggan2,Tarik Tunai,20981200,2022-12-14,Surabaya
+Pelanggan1,Transfer,22618849,2022-05-22,Jakarta
+Pelanggan6,Tarik Tunai,3836488,2022-06-02,Medan
+Pelanggan3,Transfer,32318865,2020-11-12,Jakarta
+Pelanggan9,Tarik Tunai,22503471,2022-01-03,Jakarta
+Pelanggan5,Transfer,5256525,2022-01-29,Jakarta
+Pelanggan6,Deposit,37145905,2022-04-15,Jakarta
+Pelanggan8,Transfer,10115522,2021-09-09,Medan
+Pelanggan9,Tarik Tunai,17097308,2022-09-18,Yogyakarta
+Pelanggan10,Deposit,4787749,2021-03-20,Yogyakarta
+Pelanggan6,Deposit,33138304,2021-09-19,Surabaya
+Pelanggan10,Deposit,37625573,2022-09-24,Yogyakarta
+Pelanggan9,Tarik Tunai,5393085,2021-07-08,Surabaya
+Pelanggan9,Deposit,8364433,2021-04-23,Medan
+Pelanggan10,Deposit,1348996,2022-04-22,Surabaya
+Pelanggan7,Tarik Tunai,6141788,2020-08-07,Bandung
+Pelanggan10,Transfer,5437889,2022-12-30,Medan
+Pelanggan3,Deposit,45414705,2020-12-22,Medan
+Pelanggan9,Deposit,1361438,2021-01-30,Jakarta
+Pelanggan8,Deposit,10202290,2021-11-23,Surabaya
+Pelanggan6,Deposit,29720858,2020-05-19,Bandung
+Pelanggan6,Transfer,13293945,2020-03-17,Surabaya
+Pelanggan7,Tarik Tunai,39937417,2021-08-17,Medan
+Pelanggan10,Tarik Tunai,34881790,2021-09-16,Yogyakarta
+Pelanggan1,Tarik Tunai,35631143,2020-03-02,Surabaya
+Pelanggan3,Transfer,746244,2021-10-23,Bandung
+Pelanggan2,Tarik Tunai,35659888,2021-02-19,Jakarta
+Pelanggan1,Tarik Tunai,13654328,2021-03-12,Bandung
+Pelanggan1,Transfer,5562025,2021-03-04,Surabaya
+Pelanggan5,Transfer,47104146,2021-08-08,Jakarta
+Pelanggan9,Transfer,48144434,2021-12-05,Yogyakarta
+Pelanggan2,Deposit,40534472,2021-04-10,Medan
+Pelanggan10,Transfer,31999063,2020-09-03,Bandung
+Pelanggan4,Deposit,47293195,2022-06-01,Jakarta
+Pelanggan7,Deposit,10140899,2021-04-29,Jakarta
+Pelanggan6,Deposit,33076704,2021-02-18,Yogyakarta
+Pelanggan9,Tarik Tunai,10506531,2020-01-31,Medan
+Pelanggan3,Tarik Tunai,40888636,2022-01-12,Jakarta
+Pelanggan10,Tarik Tunai,4774864,2021-12-03,Yogyakarta
+Pelanggan1,Deposit,10501716,2022-07-06,Yogyakarta
+Pelanggan4,Tarik Tunai,21333892,2021-01-05,Medan
+Pelanggan1,Tarik Tunai,32446553,2022-12-29,Medan
+Pelanggan7,Transfer,33438747,2022-11-16,Yogyakarta
+Pelanggan8,Tarik Tunai,44041577,2022-01-16,Jakarta
+Pelanggan4,Transfer,11831629,2022-03-11,Bandung
+Pelanggan8,Deposit,41293006,2020-09-22,Surabaya
+Pelanggan4,Deposit,25004034,2022-05-20,Yogyakarta
+Pelanggan5,Deposit,32811486,2020-11-16,Surabaya
+Pelanggan2,Transfer,47831355,2022-05-29,Bandung
+Pelanggan8,Deposit,33411031,2021-11-01,Medan
+Pelanggan4,Deposit,49778660,2021-01-19,Yogyakarta
+Pelanggan1,Transfer,8126966,2022-08-22,Bandung
+Pelanggan8,Transfer,3077680,2022-12-17,Medan
+Pelanggan5,Transfer,43450445,2022-10-21,Bandung
+Pelanggan6,Tarik Tunai,3801862,2022-10-17,Surabaya
+Pelanggan7,Tarik Tunai,15160409,2020-02-10,Bandung
+Pelanggan7,Transfer,25286001,2020-08-22,Yogyakarta
+Pelanggan6,Tarik Tunai,37950288,2020-04-02,Yogyakarta
+Pelanggan9,Deposit,12157355,2020-06-04,Medan
+Pelanggan7,Tarik Tunai,13262542,2020-04-29,Surabaya
+Pelanggan7,Tarik Tunai,12951163,2022-04-28,Surabaya
+Pelanggan5,Tarik Tunai,39836886,2022-09-02,Surabaya
+Pelanggan7,Tarik Tunai,25251285,2022-04-17,Bandung
+Pelanggan9,Deposit,2141916,2022-10-12,Yogyakarta
+Pelanggan5,Tarik Tunai,38497984,2021-07-15,Surabaya
+Pelanggan10,Deposit,28193133,2020-08-08,Medan
+Pelanggan9,Deposit,19340371,2022-08-15,Surabaya
+Pelanggan1,Tarik Tunai,9301269,2021-03-29,Bandung
+Pelanggan1,Deposit,4928894,2020-10-11,Yogyakarta
+Pelanggan1,Transfer,48942681,2021-10-10,Jakarta
+Pelanggan4,Deposit,13926743,2022-11-30,Yogyakarta
+Pelanggan4,Deposit,40501147,2022-10-04,Surabaya
+Pelanggan1,Tarik Tunai,36765714,2020-07-12,Surabaya
+Pelanggan1,Transfer,45315507,2020-07-13,Jakarta
+Pelanggan3,Tarik Tunai,14483253,2021-02-26,Yogyakarta
+Pelanggan8,Transfer,3362396,2020-01-03,Medan
+Pelanggan9,Transfer,1601219,2021-02-15,Yogyakarta
+Pelanggan9,Deposit,16155859,2021-08-20,Yogyakarta
+Pelanggan4,Transfer,10131479,2021-12-24,Medan
+Pelanggan7,Deposit,9654087,2022-08-25,Medan
+Pelanggan9,Transfer,35200687,2020-08-26,Jakarta
+Pelanggan5,Tarik Tunai,27692914,2022-09-01,Medan
+Pelanggan1,Transfer,11760033,2020-01-02,Bandung
+Pelanggan4,Transfer,28567584,2021-03-03,Bandung
+Pelanggan7,Transfer,45113229,2020-05-05,Medan
+Pelanggan2,Deposit,7309611,2020-02-24,Yogyakarta
+Pelanggan6,Deposit,44177633,2021-08-03,Yogyakarta
+Pelanggan9,Tarik Tunai,24452904,2020-01-13,Yogyakarta
+Pelanggan10,Transfer,42254323,2021-10-09,Medan
+Pelanggan4,Tarik Tunai,43517781,2022-05-25,Yogyakarta
+Pelanggan4,Transfer,32865464,2021-03-19,Medan
+Pelanggan6,Deposit,10318859,2021-05-21,Yogyakarta
+Pelanggan3,Transfer,33099160,2022-08-10,Yogyakarta
+Pelanggan1,Deposit,15951463,2020-12-31,Medan
+Pelanggan4,Transfer,27877066,2022-03-24,Jakarta
+Pelanggan7,Transfer,3701622,2022-07-31,Surabaya
+Pelanggan9,Deposit,34537482,2020-12-29,Jakarta
+Pelanggan7,Deposit,46215220,2020-11-04,Jakarta
+Pelanggan2,Deposit,29089300,2021-07-24,Yogyakarta
+Pelanggan8,Deposit,12856833,2022-06-30,Yogyakarta
+Pelanggan2,Transfer,18539647,2020-10-03,Bandung
+Pelanggan3,Deposit,25586969,2022-01-30,Surabaya
+Pelanggan1,Tarik Tunai,21420503,2020-07-10,Bandung
+Pelanggan5,Tarik Tunai,29745261,2021-04-15,Surabaya
+Pelanggan6,Tarik Tunai,28435009,2020-06-04,Medan
+Pelanggan3,Deposit,3684687,2022-06-20,Bandung
+Pelanggan4,Transfer,31748598,2022-11-30,Medan
+Pelanggan5,Tarik Tunai,47090196,2020-07-14,Medan
+Pelanggan6,Transfer,45435342,2021-03-27,Yogyakarta
+Pelanggan1,Deposit,48049115,2022-01-23,Surabaya
+Pelanggan4,Tarik Tunai,14481043,2021-09-01,Jakarta
+Pelanggan3,Deposit,6070472,2021-03-19,Surabaya
+Pelanggan8,Tarik Tunai,36272071,2020-03-12,Yogyakarta
+Pelanggan2,Tarik Tunai,25220720,2021-05-04,Surabaya
+Pelanggan4,Deposit,33341941,2022-04-06,Bandung
+Pelanggan5,Transfer,30438615,2022-03-31,Jakarta
+Pelanggan1,Deposit,19790482,2021-10-10,Surabaya
+Pelanggan9,Deposit,31765648,2020-02-27,Bandung
+Pelanggan3,Tarik Tunai,3786697,2022-08-10,Jakarta
+Pelanggan9,Tarik Tunai,14009380,2020-08-09,Yogyakarta
+Pelanggan4,Deposit,26277531,2022-05-26,Jakarta
+Pelanggan5,Tarik Tunai,12892756,2022-01-12,Jakarta
+Pelanggan4,Transfer,38792785,2021-12-05,Medan
+Pelanggan7,Tarik Tunai,7179848,2021-11-24,Surabaya
+Pelanggan3,Transfer,20116580,2022-07-21,Medan
+Pelanggan10,Deposit,9414689,2021-06-30,Medan
+Pelanggan10,Tarik Tunai,6519861,2020-08-07,Medan
+Pelanggan2,Deposit,24701949,2021-10-10,Medan
+Pelanggan8,Tarik Tunai,34160671,2020-11-30,Bandung
+Pelanggan6,Tarik Tunai,48291421,2020-07-07,Jakarta
+Pelanggan7,Tarik Tunai,34535788,2022-03-30,Medan
+Pelanggan2,Tarik Tunai,45769423,2020-07-20,Surabaya
+Pelanggan6,Transfer,13486815,2022-12-31,Jakarta
+Pelanggan10,Transfer,37278805,2022-08-31,Yogyakarta
+Pelanggan4,Transfer,10412050,2022-11-05,Surabaya
+Pelanggan4,Tarik Tunai,3716551,2022-04-06,Surabaya
+Pelanggan7,Deposit,13918347,2022-04-26,Surabaya
+Pelanggan4,Transfer,6030049,2020-12-11,Yogyakarta
+Pelanggan8,Tarik Tunai,18181457,2020-10-08,Jakarta
+Pelanggan6,Tarik Tunai,26445861,2020-09-30,Surabaya
+Pelanggan4,Transfer,49613102,2021-09-28,Bandung
+Pelanggan1,Tarik Tunai,42876793,2020-11-04,Surabaya
+Pelanggan8,Tarik Tunai,2604277,2022-09-11,Medan
+Pelanggan10,Tarik Tunai,3545274,2021-10-25,Bandung
+Pelanggan5,Deposit,2671935,2021-03-04,Bandung
+Pelanggan10,Deposit,38553932,2020-05-06,Surabaya
+Pelanggan10,Tarik Tunai,26629194,2020-07-25,Bandung
+Pelanggan3,Tarik Tunai,48006738,2020-05-05,Yogyakarta
+Pelanggan3,Tarik Tunai,45521962,2020-03-19,Surabaya
+Pelanggan1,Tarik Tunai,22429777,2020-11-30,Bandung
+Pelanggan2,Tarik Tunai,16576043,2020-03-30,Medan
+Pelanggan5,Transfer,42357217,2021-04-27,Surabaya
+Pelanggan9,Tarik Tunai,7035928,2020-04-01,Surabaya
+Pelanggan10,Tarik Tunai,28341082,2020-06-05,Yogyakarta
+Pelanggan4,Deposit,36329673,2020-01-16,Jakarta
+Pelanggan10,Deposit,2426389,2022-02-07,Yogyakarta
+Pelanggan5,Transfer,18919588,2020-04-27,Jakarta
+Pelanggan8,Transfer,41311588,2020-06-09,Medan
