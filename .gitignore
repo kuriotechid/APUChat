@@ -38,3 +38,11 @@ exports/
 
 # vscode
 .vscode
+# ignore
+poetry.lock
+
+# sementara
+pyproject.toml
+
+
+.ipynb_checkpoints
