@@ -2,7 +2,7 @@
   "save_logs": true,
   "verbose": false,
   "enforce_privacy": false,
-  "enable_cache": true,
+  "enable_cache": false,
   "use_error_correction_framework": true,
   "max_retries": 3,
   "custom_prompts": {},
